@@ -7,6 +7,8 @@ I'm a Data Engineer by formation, but I consider myself a Data Enthusiast, alway
 
 My major experience is around DATA, from big transactional and Data Warehouse modeling, to modern Data Lake and Lake House design (with a special passion for Microsoft Azure data solutions). I also have a solid (long) background in Software Engineering, so this is something that may appear here as well.
 
-<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+#### My knowledge stack
+
+<img src="https://img.shields.io/badge/scala-9146FF?style=for-the-badge&logo=scala&logoColor=white" target="_blank">
 
  
