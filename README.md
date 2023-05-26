@@ -27,10 +27,4 @@ My major experiences are around DATA, from big transactional and Data Warehouse 
 <br/>          
 (...) special passion for functional programming with Scala.
   
-<div>
-<span display="inline" height="20px" class="common__BadgeWrapper-sc-11baoah-3 egafBA">
-  <img alt="for-the-badge" src="https://img.shields.io/badge/style-for--the--badge-green?logo=appveyor&amp;style=for-the-badge">
-  </span><br/>
-</div>
-  
- ![Cocoapods platforms](https://img.shields.io/cocoapods/p/code?color=blue&label=scala | python | SQL&logo=name&logoColor=black&style=plastic)
+
