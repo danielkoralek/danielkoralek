@@ -7,11 +7,17 @@ I'm a Data Engineer by formation, but I consider myself a Data Enthusiast, alway
 
 My major experience is around DATA, from big transactional and Data Warehouse modeling, to modern Data Lake and Lake House design (with a special passion for Microsoft Azure data solutions). I also have a solid (long) background in Software Engineering, so this is something that may appear here as well.
 
+### My knowledge stack:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/Azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
 <div>
 <a href="https://github.com/dankoralek">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankoralek&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dankoralek&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-
- 
