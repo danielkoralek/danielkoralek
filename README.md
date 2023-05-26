@@ -1,7 +1,7 @@
 ### Hi there! 👋 My name is Daniel Koralek
 This is an experimental and personal use repository, where I plan to share some shareable snippets of my day to day work, as well as my personal research findings and self-taught discovery projects.
 
-Over the past years I have worked for big and well structured companies, as well a big Unicorn. Eeach company had its data stack, which allowed me to accumulate expertise in different areas and feel comfortable to compare them side by side today. During this time I have contributed a lot to proprietary projects and private repositories, so most of my old contribution won't show up here.
+Over the past years I have worked for big and well structured companies, as well a big Unicorn. Eeach company had its data stack, which allowed me to accumulate experience in different areas and platforms, and feel comfortable to compare them side by side today. During this time I have contributed a lot to proprietary projects and private repositories, so most of my old contribution won't show up here. 
 
 I'm a Data Engineer by formation, but I consider myself a Data Enthusiast, always trying to lear something new. I'm currently studying the most diverse data pipeline forms and technologies, across different platforms and conditions (based on real-life use cases).
 
