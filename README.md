@@ -7,10 +7,11 @@ I'm a Data Engineer by formation, but I consider myself a Data Enthusiast, alway
 
 My major experience is around DATA, from big transactional and Data Warehouse modeling, to modern Data Lake and Lake House design (with a special passion for Microsoft Azure data solutions). I also have a solid (long) background in Software Engineering, so this is something that may appear here as well.
 
-#### My knowledge stack
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<i class="devicon-azure-plain-wordmark colored"></i>
+<div>
+<a href="https://github.com/dankoralek">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankoralek&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dankoralek&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
  
