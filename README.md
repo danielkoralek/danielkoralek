@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 My name is Daniel Koralek
+This is an experimental and for personal use repository, where I plan to share some shareable snippets of my day to day work.
+
+I'm a Data Engineer by formation, but I consider myself a Data Enthusiast always trying to lear something new. Currently studying the most diverse data pipeline forms and technologies across different platforms.
+
+I also have a solid (long) background in Software Engineering, so this is something that may appear here as well.
 
 <!--
 **dankoralek/dankoralek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
