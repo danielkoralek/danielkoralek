@@ -9,8 +9,8 @@ My major experiences are around DATA, from big transactional and Data Warehouse 
 
 <div>
 <a href="https://github.com/dankoralek">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankoralek&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dankoralek&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankoralek&layout=compact&langs_count=7&theme=dracula"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=dankoralek&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 #### My knowledge stack:
