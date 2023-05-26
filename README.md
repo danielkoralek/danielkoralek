@@ -1,5 +1,5 @@
 ### Hi there! 👋 My name is Daniel Koralek
-This is an experimental and for personal use repository, where I plan to share some shareable snippets of my day to day work.
+This is an experimental and personal use repository, where I plan to share some shareable snippets of my day to day work.
 
 Over the past years I have worked for big and well structured companies, as well a big Unicorn. Eeach company had its data stack, which allowed me to accumulate expertise in different areas and feel comfortable to compare them side by side today.
 
