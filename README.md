@@ -9,8 +9,8 @@ My major experience is around DATA, from big transactional and Data Warehouse mo
 
 #### My knowledge stack
 
-<img src="https://img.shields.io/badge/scala-9146FF?style=for-the-badge&logo=scala&logoColor=white" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-azure-plain-wordmark colored"></i>
 
 
  
