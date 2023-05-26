@@ -8,7 +8,7 @@ I'm a Data Engineer by formation, but I consider myself a Data Enthusiast, alway
 My major experiences are around DATA, from big transactional and Data Warehouse modeling, to modern Data Lake and Lake House design (with a special passion for Microsoft Azure data solutions). I also have a solid (long) background in Software Engineering, so this is something that may appear here as well.
 
 <div>
-<a href="https://github.com/dankoralek">
+<a href="https://github.com/danielkoralek">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkoralek&layout=compact&langs_count=7&count_private=true"/>
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=danielkoralek&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
