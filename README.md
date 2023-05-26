@@ -26,4 +26,6 @@ My major experiences are around DATA, from big transactional and Data Warehouse 
 </div>
 <br/>          
 (...) special passion for functional programming with Scala.
+  
+<img src="https://img.shields.io/cocoapods/p/scala%20%7C%20sql%20%7C%20python%20%7C%20clojure%20%7C%20javascript?color=blue&label=languages&logo=name&logoColor=black&style=plastic" />
 
