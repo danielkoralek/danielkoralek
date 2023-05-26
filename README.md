@@ -26,5 +26,6 @@ My major experiences are around DATA, from big transactional and Data Warehouse 
 </div>
 <br/>          
 
+  <img src="https://camo.githubusercontent.com/1635c301e3371c0d25489ab11551718896ffa49d0315dc0a560ba978202bf169/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4441544142415345532d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d323139364633" data-canonical-src="https://img.shields.io/badge/DATABASES-green?style=for-the-badge&amp;color=2196F3" style="max-width: 100%;">
   
 
