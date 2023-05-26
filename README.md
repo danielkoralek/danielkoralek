@@ -14,22 +14,15 @@ My major experiences are around DATA, from big transactional and Data Warehouse 
 </div>
 
 ### My knowledge stack:
-  
-As for programming languages:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" title="Scala" alt="Scala" height="75" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" height="75"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="75" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" title="Clojure" alt="Clojure" height="75" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" title="Scala" alt="Scala" height="60" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="60" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" title="Clojure" alt="Clojure" height="60" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" height="60" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  title="AWS" alt="AWS" height="60" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" height="60"/>
 </div>
-
- As for cloud stack:
- 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" height="75" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  title="AWS" alt="AWS" height="75" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" height="75"/>
-          
           
 
