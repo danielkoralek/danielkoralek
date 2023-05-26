@@ -13,10 +13,10 @@ My major experiences are around DATA, from big transactional and Data Warehouse 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dankoralek&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### My knowledge stack:
+#### My knowledge stack:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" title="Scala" alt="Scala" height="60" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" title="Scala" alt="Scala" height="60" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="60" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" title="Clojure" alt="Clojure" height="60" />&nbsp;
@@ -25,4 +25,5 @@ My major experiences are around DATA, from big transactional and Data Warehouse 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" height="60"/>
 </div>
           
+ * special passion for functional programming with Scala.
 
