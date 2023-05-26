@@ -7,17 +7,20 @@ I'm a Data Engineer by formation, but I consider myself a Data Enthusiast, alway
 
 My major experience is around DATA, from big transactional and Data Warehouse modeling, to modern Data Lake and Lake House design (with a special passion for Microsoft Azure data solutions). I also have a solid (long) background in Software Engineering, so this is something that may appear here as well.
 
-### My knowledge stack:
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" title="Scala" alt="Scala" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/Azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+Also over the past years I have contributed a lot to proprietary project, so most of my contribution won't show up here.
 
 <div>
 <a href="https://github.com/dankoralek">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankoralek&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dankoralek&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+### My knowledge stack:
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" title="Scala" alt="Scala" height="90" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" height="90"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="90" />&nbsp;
+</div>
+
+
