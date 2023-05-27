@@ -25,7 +25,7 @@ My major experiences are around DATA, from big transactional and Data Warehouse 
 | **Amazon AWS** | S3, Lambdas, Redshift, Redshift Spectrum, CloudWatch, and somewhat Athena. |
 | **Google Cloud** | Big Query and some procedures for data ingestion. |
 
-### Programming languages skills and experience
+### Programming / Scripting languages skills and experience
 | Language | Experience |
 |:--|:--|
 | **SQL** | Used for everything (beyond programming), all the time, for more than 25 years now. From simple to advanced queries, code-based data modeling, high-performance stored procedures in pure SQL, T-SQL, and PL/SQL. In the past I worked on a huge billing system which was built on top of Oracle PL/SQL with Stored Procedures and Triggers. |
@@ -35,6 +35,7 @@ My major experiences are around DATA, from big transactional and Data Warehouse 
 | **Delphi** (OO, for backend development) | For a period in my career I worked on the most state-o-the-art high performance software, fully developed in Delphi, object oriented. It was not created by myself, but I maintained and enhanced it over the time. It was a backend semaphore application for high speed TCP protocol translation which would rule the business of a Cable TV company, sitting at the edge of the hardware communication. |
 | **PHP** | I used a lot for dynamic web development, WordPress maintenance and plugin development, and text processing, but it's been a long time I don't go there. |
 | **Visual Basic & VB.NET** | Visual Basic was my start point after learning programming with **GW Basic**, a long time ago. With VB I had my first job opportunity working in a Software House building business system suite (mostly Accounting System) based on Visual Basic and the earliest versions of SQL Server. |
+| **JavaScript** | Used for applying dynamics to the developed websites, combined with *CSS* and *HTML*. |
 
 <div>
 <a href="https://github.com/danielkoralek">
