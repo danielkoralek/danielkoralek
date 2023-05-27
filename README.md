@@ -7,16 +7,19 @@ I'm a Data Engineer by formation, but I consider myself a **Data Enthusiast**, a
 
 My major experiences are around DATA, from big transactional and Data Warehouse modeling, to modern Data Lake and Lake House design (with a special passion for **Microsoft Azure** data solutions). I also have a solid (long) background as a Software Engineering, so this is something that may appear here as well.
 
-### In my career path I've been...
+### (Technical) Career path
 
-1. Software Developer
-2. Web Developer
-3. Software Engineer
-4. Database Developer
-5. Database Administrator
-6. Big Data Developer
-7. Analytics Engineer
-8. Data Engineer
+Although I have played the role of Team Manager, Tech Lead, and also Squad Lead at some points in the last few years, the list below is what better describes my career path from the technical stand point:
+
+1. Computer Technician (when I was very very young - AKA the IT boy)
+2. Software Developer
+3. Web Developer
+4. Software Engineer / Architect
+5. Database Developer
+6. Database Administrator
+7. Big Data Developer
+8. Analytics Engineer
+9. Data Engineer
 
 ### Cloud knowledge distribution
 |Cloud| Knowledge / Experience |
@@ -39,11 +42,7 @@ My major experiences are around DATA, from big transactional and Data Warehouse 
 
 ### Summary of the repos in this profile...
 
-<div>
-<a href="https://github.com/danielkoralek">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkoralek&layout=donut&langs_count=7&count_private=true"/>
-</div>
-
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkoralek&langs_count=7&theme=tokyonight)]()
       
 
   
