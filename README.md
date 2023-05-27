@@ -1,7 +1,7 @@
-## Hi there! 👋 My name is Daniel Koralek
+# Hi there! 👋 My name is Daniel Koralek
 This is my personal GitHub profile where I plan to share some snippets of my day to day work, as well as my personal research findings, and self-taught discovery projects.
 
-Over the past years I have worked for big and well structured companies, as well as a big purple unicorn. Each company had (has) its technology stack, which allowed me to accumulate experience in different techs and data platforms, and now feel comfortable to compare them side by side. During this time I have contributed a lot to proprietary projects and private repositories, so most of my previous contribution won't show up here. 
+Over the past 25+ years I have worked for big and well structured companies, as well as a big purple unicorn. Each company had (has) its technology stack, which allowed me to accumulate experience in different techs and data platforms, and now feel comfortable to compare them side by side. During this time I have contributed a lot to proprietary projects and private repositories, so most of my previous contribution won't show up here. 
 
 I'm a Data Engineer by formation, but I consider myself a **Data Enthusiast**, always trying to lear something new. I'm currently studying the most diverse data pipeline forms and technologies, across different platforms and conditions (based on real-life use cases).
 
@@ -9,7 +9,7 @@ My major experiences are around DATA, from big transactional and Data Warehouse 
 
 ### (Technical) Career path
 
-Although I have played the role of Team Manager, Tech Lead, and also Squad Lead at some points in the last few years, the list below is what better describes my career path from the technical stand point:
+Although I have played the role of **Team Manager**, **Operations Manager**, **Tech Lead**, and **Squad Lead** at some points in the last few years, the list below is what better describes my career path from the technical stand point:
 
 1. Computer Technician (when I was very very young - AKA the IT boy)
 2. Software Developer
@@ -40,7 +40,7 @@ Although I have played the role of Team Manager, Tech Lead, and also Squad Lead 
 | **Visual Basic & VB.NET** | Visual Basic was my start point after learning programming with **GW Basic**, a long time ago. With VB I had my first job opportunity working in a Software House building business system suite (mostly Accounting System) based on Visual Basic and the earliest versions of SQL Server. |
 | **JavaScript** | Used for applying dynamics to the developed websites, combined with *CSS* and *HTML*. |
 
-### Summary of the repos in this profile...
+### Summary of the repos in this profile
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkoralek&langs_count=7&theme=tokyonight)]()
       
