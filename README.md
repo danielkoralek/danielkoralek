@@ -33,7 +33,7 @@ My major experiences are around DATA, from big transactional and Data Warehouse 
 | **Scala** | Mostly used in Databricks context to build Big d=Data transformations based on Spark processing. Also used a lot of Scala **Functional** programming to contribute to an in-house ELT system running upon Spark. |
 | **Python** | All-purpose language for data wrangling, data mockups, quick notebook-based investigations, ingestion pipelines, data analysis, etc. Also used for some automation. |
 | **Delphi** (OO, for backend development) | For a period in my career I worked on the most state-o-the-art high performance software, fully developed in Delphi, object oriented. It was not created by myself, but I maintained and enhanced it over the time. It was a backend semaphore application for high speed TCP protocol translation which would rule the business of a Cable TV company, sitting at the edge of the hardware communication. |
-| **PHP** | I used a lot for dynamic web development and text processing, but it's been a long time I don't go there. |
+| **PHP** | I used a lot for dynamic web development, WordPress maintenance and plugin development, and text processing, but it's been a long time I don't go there. |
 | **Visual Basic & VB.NET** | Visual Basic was my start point after learning programming with **GW Basic**, a long time ago. With VB I had my first job opportunity working in a Software House building business system suite (mostly Accounting System) based on Visual Basic and the earliest versions of SQL Server. |
 
 <div>
