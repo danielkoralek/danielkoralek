@@ -41,7 +41,7 @@ My major experiences are around DATA, from big transactional and Data Warehouse 
 
 <div>
 <a href="https://github.com/danielkoralek">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkoralek&layout=donut&langs_count=7&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkoralek&layout=donut&langs_count=7&count_private=true"/>
 </div>
 
       
