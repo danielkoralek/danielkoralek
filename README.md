@@ -37,9 +37,11 @@ My major experiences are around DATA, from big transactional and Data Warehouse 
 | **Visual Basic & VB.NET** | Visual Basic was my start point after learning programming with **GW Basic**, a long time ago. With VB I had my first job opportunity working in a Software House building business system suite (mostly Accounting System) based on Visual Basic and the earliest versions of SQL Server. |
 | **JavaScript** | Used for applying dynamics to the developed websites, combined with *CSS* and *HTML*. |
 
+### Summary of the repos in this profile...
+
 <div>
 <a href="https://github.com/danielkoralek">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkoralek&layout=compact&langs_count=7&count_private=true"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkoralek&layout=donut&langs_count=7&count_private=true"/>
 </div>
 
       
