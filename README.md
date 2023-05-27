@@ -11,17 +11,18 @@ My major experiences are around DATA, from big transactional and Data Warehouse 
 |Cloud| Knowledge / Experience |
 |:--|:--|
 | **Microsoft Azure** | Entire data stack, including: Azure Synapse Analytics (from the Workspace management to Pipelines, Dedicated SQL Pool [DW], and Serverless SQL Pool), Azure Data Lake (ADLSGen2), Azure Data Factory, Cosmos DB, Azure Data Explorer, Storage Account, Event Grid, Function Apps. |
+| **Amazon AWS** | S3, Lambdas, Redshift, Redshift Spectrum, CloudWatch, and somewhat Athena. |
 | **Google Cloud** | Big Query and some procedures for data ingestion. |
-| **Amazon AWS** | S3, Lambdas, Redshift, Redshift Spectrum, CloudWatch. |
 
 ### Programming languages skills and experience
 | Language | Experience |
 |:--|:--|
-| **SQL** | Used for everything (beyond programming), all the time, for more than 25 years now. From simple to advanced queries, code-based data modeling, high-performance stored procedures in pure SQL, T-SQL, and PL/SQL. |
+| **SQL** | Used for everything (beyond programming), all the time, for more than 25 years now. From simple to advanced queries, code-based data modeling, high-performance stored procedures in pure SQL, T-SQL, and PL/SQL. In the past I worked on a huge billing system which was built on top of Oracle PL/SQL with Stored Procedures and Triggers. |
 | **Java** (OO, mostly SE for backend) | I have not used Java for some time now, but I had a solid Software Engineering with this language in the past, building critical backend and high-performance applications. The most interesting was a telco messaging system, which connected a Billing system to the Cable TV controllers, processing provisioning signals.  |
 | **Scala** | Mostly used in Databricks context to build Big d=Data transformations based on Spark processing. Also used a lot of Scala **Functional** programming to contribute to an in-house ELT system running upon Spark. |
 | **Python** | All-purpose language for data wrangling, data mockups, quick notebook-based investigations, ingestion pipelines, data analysis, etc. Also used for some automation. |
 | **PHP** | I used a lot for dynamic web development and text processing, but it's been a long time I don't go there. |
+| **Visual Basic & VB.NET** | Visual Basic was my start point after learning programming with **GW Basic**, a long time ago. With VB I had my first job opportunity working in a Software House building business system suite (mostly Accounting System) based on Visual Basic and the earliest versions of SQL Server. |
 
 <div>
 <a href="https://github.com/danielkoralek">
