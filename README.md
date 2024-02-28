@@ -32,7 +32,7 @@ Although I have played the role of **Team Manager**, **Operations Manager**, **T
 | Language | Experience |
 |:--|:--|
 | **SQL** | Used for everything (beyond programming), all the time, for more than 25 years now. From simple to advanced queries, code-based data modeling, high-performance stored procedures in pure SQL, T-SQL, and PL/SQL. In the past I worked on a huge billing system which was built on top of Oracle PL/SQL with Stored Procedures and Triggers. |
-| **KQL** | New passion. Used a lot for Log Analytics and telemetry data research, mostly using Azure Data Explorer. Currently investibg time into learning more advanced data and time series analytics using KQL. |
+| **KQL** | New passion. Used a lot for Log Analytics and telemetry data research, mostly using Azure Data Explorer. Currently investing time into learning more advanced data and time series analytics using KQL. |
 | **Java** (OO, mostly SE for backend) | I have not used Java for some time now, but I had a solid Software Engineering with this language in the past, building critical backend and high-performance applications. The most interesting was a telco messaging system, which connected a Billing system to the Cable TV controllers, processing provisioning signals.  |
 | **Scala** | Mostly used in Databricks context to build massive Big Data transformations based on Spark processing. Also used a lot of Scala **Functional** programming to contribute to an in-house ELT system running upon Spark, in a big deta democratization project. |
 | **Python** | All-purpose language for data wrangling, data mockups, quick notebook-based investigations, ingestion pipelines, data analysis, etc. Also used for some automation. |
