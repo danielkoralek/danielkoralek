@@ -24,7 +24,7 @@ Although I have played the role of **Team Manager**, **Operations Manager**, **T
 ### Cloud knowledge distribution
 |Cloud| Knowledge / Experience |
 |:--|:--|
-| **Microsoft Azure** | Entire data stack, including: Azure Synapse Analytics (from the Workspace management to Pipelines, Dedicated SQL Pool [DW], and Serverless SQL Pool), Azure Data Lake (ADLSGen2), Azure Data Factory, Cosmos DB, Azure Data Explorer, Storage Account, Event Grid, Function Apps. |
+| **Microsoft Azure** | Entire data stack, including: Azure Synapse Analytics (from the Workspace management to Pipelines, Dedicated SQL Pool [DW], and Serverless SQL Pool), Azure Data Lake (ADLSGen2), Azure Data Factory, Cosmos DB, Azure Data Explorer, Kusto, Storage Account, Event Grid, Function Apps. |
 | **Amazon AWS** | S3, Lambdas, Redshift, Redshift Spectrum, CloudWatch, and somewhat Athena. |
 | **Google Cloud** | Big Query and some procedures for data ingestion. |
 
